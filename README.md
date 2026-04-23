@@ -3,7 +3,7 @@
 </div>
 <div align="center">
 ㅤㅤㅤㅤㅤ
-<p align="center">$\Large\color{#FFFFF}{\textsf{Welcome !}}$
+<p align="center">$\Large\color{#ffa3d3}{\textsf{Welcome !}}$
 
 
 
